@@ -1,0 +1,18 @@
+.copyButton {
+    width: 38px;
+    height: 45px;
+    background: url('/src/images/copy.png') no-repeat center;
+    position: absolute;
+    bottom: 496px;
+    right: 640px;
+    border-radius: 10px;
+    cursor: pointer;
+    border: none;
+    background-size: 36px;
+
+}
+
+
+.copyButton:hover{
+    border: 2px solid teal;
+}

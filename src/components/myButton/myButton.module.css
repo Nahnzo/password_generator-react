@@ -1,0 +1,13 @@
+.myButton{
+    height: 35px;
+    width: 98px;
+    color: white;
+    background-color: dodgerblue;
+    position: fixed;
+    bottom: 460px;
+    left: 690px;
+    border-radius: 10px;
+    cursor: pointer;
+    border: none;
+    font-size: 16px;
+}
